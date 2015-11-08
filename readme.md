@@ -1,3 +1,5 @@
+# I intend to make this project soon, but due to my limit(but ever growing) knowledge of C++, and my time-constrants with university, I have to put this project on halt untilI finish it. 
+
 Lion seeker; Open-Source Mass SQL Injection Checker
 This program is not live yet. This is our initial launch to make it open source. Check the beta development branch for live(and potentially unstable) commits.
 
