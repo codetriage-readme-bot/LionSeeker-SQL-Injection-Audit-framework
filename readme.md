@@ -4,10 +4,11 @@ V0.0.0
 Function:
 LionSeeker is a mass SQL Injection Checker. Its goal is to test websites for basic SQL vulnerabilities. 
 
-Capabilities:
+## H2 Capabilities:
 Proposed capabilities are for the program to be able to check multiple websites at once to find the most common SQL injection errors. In addition, a set of tools will be created within the program to export the results and send them via email or print them in a PDF file. 
-Technical Details:
-Our Stack
+
+# H1 Technical Details:
+### H3 Our Stack
 Ruby
 Thor(Possibly) 
 Why Ruby? Because we like the language. Yes we could use Python, or C++. However, what pen-testing tools use Ruby? Not many. We love the language and we want to be unique. 
