@@ -12,15 +12,15 @@ Proposed capabilities are for the program to be able to check multiple websites 
 Ruby
 Thor(Possibly) 
 ### General Help or Bug reporting:
-1.If you find a bug, please report it to us as soon as possible. You can do this by emailing us at teamlionseeker@gmail.com
-2. If you need help, we would be glad to help! You can do this by emailing us at teamlionseeker@gmail.com 
-*Please allow 0-4 days for us to reply.*
+1.If you find a bug, please report it to us as soon as possible. You can do this by chatting with us at lionseeker.slack.com
+2. If you need help, we would be glad to help! You can do this by chatting with us at lionseeker.slack.com
+
 
 # More Details: 
 Free Forever and Always.
 Team:
 Austin Gomez(AustinProg) Lead developer and Product Manager. 
-Please email teamlionseeker@gmail.com if you would like to get involved. We will welcome and help that we can get.
+Please email lionseeker.slack.com if you would like to get involved. We will welcome and help that we can get.
 
 # Contribute:
 ### Programmers:
