@@ -1,13 +1,13 @@
 Lion seeker; Open-Source Mass SQL Injection Checker. 
 V0.0.0
-*V0.0.1 development to begin in May 2016* *Release as soon as August 2016*
+*V0.0.1 development has begun* *Release as soon as August 2016* *Check the development branch for updates*
 Function:
 LionSeeker is a mass SQL Injection Checker. Its goal is to test websites for basic SQL vulnerabilities. 
 
-## H2 Capabilities:
+## Capabilities:
 Proposed capabilities are for the program to be able to check multiple websites at once to find the most common SQL injection errors. In addition, a set of tools will be created within the program to export the results and send them via email or print them in a PDF file. 
 
-# H1 Technical Details:
+## Technical Details:
 ### Our Stack
 Ruby
 Thor(Possibly) 
