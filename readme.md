@@ -9,8 +9,7 @@ Proposed capabilities are for the program to be able to check multiple websites 
 
 ## Technical Details:
 ### Our Stack
-Ruby
-Thor(Possibly) 
+C++ 
 ### General Help or Bug reporting:
 1.If you find a bug, please report it to us as soon as possible. You can do this by chatting with us at lionseeker.slack.com
 2. If you need help, we would be glad to help! You can do this by chatting with us at lionseeker.slack.com
