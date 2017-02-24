@@ -12,7 +12,6 @@ This application is being built in C++ 10. As I am a student, my knowledge of pr
 If you use this application, please do not use it for harm. This tool is meant for cyber security assessments only. In addition, we are under the GPL license. 
 
 ## Contribute
-Coming Soon
-
+We strongly encourage you to contact us if you are interesting in helping us. The first thing you can do is get familiar with our development flow. We have different branches working on different things. For example, menu development. Once these branches are complete and throughly tested we will merge them into our release branch. (Ex: V 0.0.1). Then, once we are ready for a version launch we will merge that release branch into the main branch. Any contribution you make will get your name added to the AUTHORS page. However, since our project is new you have the oppurtunity to get the founding member distinction on the AUTHORS page. Development is moving at different paces. At the moment, we are focusing only on the menu. After the menu is completed, we will begin working on the functionality of the application. Plese check out the Projects tab to see our current progress and where you might want to help. If you are interested, please email us. 
 
 
