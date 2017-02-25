@@ -1,6 +1,6 @@
 Lion seeker; Open-Source Mass SQL Injection Checker. 
 V0.0.0
-*V0.0.1 development has begun* 
+*V0.0.1 in progress. Not ready for use by consumers* 
 
 ## Capabilities:
 The idea about LionSeeker is to be able to test multiple websites at once for SQL injection vulnerabilities. This will be done by feeding the program payloads. It will use these payloads to test the websites for the potential vulnerbilities. Upon a successful vulernability find, the program will either take a snapshot of the vulernability or describe it in a text file. 
