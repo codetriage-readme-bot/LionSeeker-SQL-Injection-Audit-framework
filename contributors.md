@@ -6,6 +6,7 @@ The first thing that you want to do is fork this repo to your computer and githu
 
 # Development Style
 We are very relaxed for our contributions.
+Our issues page will be have issues in the hard,easy, and new_programmer_friendly tags. We offer mentoring for the new_programmer_friendly tags. We won't spoonfeed you the solutions. However, we are here to give tips on what to do.  
 ### For new features we only require three things
 - Test your code
  Please test your code for bugs and other things. We suggest the pen and driver method as we are still working on making automatic testing on Github. We will throughly test your code before submission. Our critigue might seem hars, but we are hoping for the project and you.
