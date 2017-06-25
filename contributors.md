@@ -13,7 +13,7 @@ Our issues page will be have issues in the hard,easy, and new_programmer_friendl
 - Detail what your pull request will DO
   For best chances of your pull request being accepted we ask that you explain to us what the request will do. All we ask is a paragraph. This will expediate the chances of getting your request processed. 
 - Have Decent Code Style
-  We are not very strict on the cleaniss of your code. However, please make sure you decent code structure. Avoid bad variable names like 'a-function'. If your functions sound complicated we ask that you leave a comment above it to explain
+  We have decided to adopt the Google C++ Code Style. Thereofore, your submission must meet those specifications. 
  - Don't steal code
   Please do not steal code from web sources. This is not a good practice and hurts our application. 
  
