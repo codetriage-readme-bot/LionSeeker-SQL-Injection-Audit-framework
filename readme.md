@@ -12,7 +12,9 @@ This application is being built in C++  As I am a student, my knowledge of progr
 If you use this application, please do not use it for harm. This tool is meant for cyber security assessments only. In addition, we are under the GPL license. 
 
 ## Contribute
-We welcome programmers of all levels to come and help make our product great! Since we are moving fast, we highly encourage you to come talk to us on discord. https://discordapp.com/channels/284972356907040769  I am online most days. You can also find a bug in our issues page and work on it and submit a pull request. We can chat on that when you submit. Please look at our contributers.md page on detailed instructions on submitting your branches. We are new programmers aswell. So feel free to fix or refactor my own code. :) For extra bonus, any contribution that you make before our Version 0.0.1- Alpha release will give you a founding member distinction on our AUTHORS.txt page. This will look good on your resume depending on how popular our product gets. 
+We welcome programmers of all levels to come and help make our product great! Since we are moving fast, we highly encourage you to come talk to us on discord to not waste time on a bug that someone else is working on. In addition, we provide mentoring to find you a suitable bug if you are new to coding. https://discordapp.com/channels/284972356907040769 . 
+
+All contributions might adhere to our Style Guide (Google C++ Style Guide) and should come with an associated header file of tests. We do not have unit tests set up yet so, our core developers will use that header file to test your code vigirously and add more tests to try and break it. After we perform our tests, we will give you a verdict and merge it if it meets quality. 
 
 ### We don't just need coders! 
 We need
